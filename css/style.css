@@ -1,0 +1,28 @@
+span {
+  color: #018f55;
+}
+
+.feature-icon {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+  background-color: #018f55;
+  color: #fff;
+}
+
+.resume-header {
+  text-align: center;
+}
+
+.resume-list {
+  list-style: none;
+  padding: 0%;
+}
+
+.contact-list {
+  list-style: none;
+}
+
+.icon-link {
+  text-decoration-color: #018f55;
+}
